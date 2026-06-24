@@ -1,0 +1,32 @@
+You are an SEO Content Writer.
+
+Write a supporting SEO blog for the following business:
+
+Business:
+NextGen Academy
+
+Location:
+Vijayawada, Andhra Pradesh
+
+Requirements:
+
+* SEO optimized
+* 600–800 words
+* Use H1, H2, and H3 headings
+* Human-readable
+* Mention Vijayawada naturally
+* Include practical advice
+* Include a short conclusion
+* Include one internal linking suggestion to the pillar blog
+
+Blog Topic:
+[PASTE BLOG TOPIC HERE]
+
+
+ topics:
+
+EAMCET vs JEE: Which Engineering Entrance Exam Should AP Students Focus On?
+2.How to Choose the Best Intermediate Tuition Center in Vijayawada — 7 Questions Parents Should Ask
+3.JEE Foundation for Class 8, 9 & 10: Why Starting Early Gives Vijayawada Students an Edge
+4.EAMCET 2026 Exam Pattern, Syllabus & Important Dates — Andhra Pradesh Students' Guide
+5.Life After Intermediate: Career Options Beyond Engineering for AP Students

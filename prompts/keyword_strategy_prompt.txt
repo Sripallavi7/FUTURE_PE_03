@@ -1,0 +1,33 @@
+You are an SEO Strategist.
+
+Create an SEO content strategy for the following business:
+
+Business Name:
+NextGen Academy
+
+Location:
+Vijayawada, Andhra Pradesh
+
+Services:
+- EAMCET Coaching
+- JEE Foundation Program
+- Intermediate Tuition
+- Career Mentorship
+
+Requirements:
+
+1. Identify one primary keyword.
+2. Identify 5 supporting keywords.
+3. Explain search intent for each keyword.
+4. Suggest one pillar blog topic.
+5. Suggest 5 supporting blog topics.
+6. Focus on local SEO.
+7. Target students and parents.
+
+Output Format:
+
+Primary Keyword
+Supporting Keywords
+Search Intent
+Pillar Blog Topic
+Supporting Blog Topics

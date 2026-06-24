@@ -1,0 +1,38 @@
+You are an SEO Content Writer.
+
+Write a pillar blog for:
+
+Business:
+NextGen Academy
+
+Location:
+Vijayawada, Andhra Pradesh
+
+Primary Keyword:
+EAMCET Coaching in Vijayawada
+
+Blog Topic:
+The Complete Guide to EAMCET Preparation in Vijayawada (2026 Edition): Syllabus, Strategy, Coaching & College Selection
+
+Requirements:
+
+* SEO optimized
+* Use H1, H2, and H3 headings
+* 1200–1500 words
+* Human-readable and informative
+* Mention Vijayawada naturally
+* Include preparation strategies
+* Include coaching benefits
+* Include common mistakes students make
+* Include internal linking suggestions to supporting blogs
+* Include a conclusion encouraging students and parents to seek expert guidance
+
+Output Format:
+
+Meta Title
+Meta Description
+H1
+H2 Sections
+H3 Sections
+Internal Linking Suggestions
+Conclusion
